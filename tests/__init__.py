@@ -1,0 +1,1 @@
+"""TrailBuddy Local test suite."""
